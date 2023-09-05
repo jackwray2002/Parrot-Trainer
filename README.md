@@ -7,4 +7,5 @@ https://github.com/jackwray2002/Parrot-Trainer/assets/46540700/76a66944-73f7-4ef
 
 
 **Schematic**
+
 ![circuit](https://github.com/jackwray2002/Parrot-Trainer/assets/46540700/7eeb69b1-021c-4b4a-ba8b-3b1ba3df66cb)
